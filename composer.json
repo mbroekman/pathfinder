@@ -23,7 +23,7 @@
   "readme": "README.md",
   "require": {
     "php-64bit": ">=7.2",
-     "mbroekman/pathfinder_esi": "2.1.4",
+    "mbroekman/pathfinder_esi": "2.1.5",
     "ext-pdo": "*",
     "ext-openssl": "*",
     "ext-curl": "*",
@@ -41,7 +41,7 @@
     "cache/redis-adapter": "1.1.*",
     "cache/filesystem-adapter": "1.1.*",
     "cache/array-adapter": "1.1.*",
-    "cache/void-adapter": "1.0.*",
+    "cache/void-adapter": "1.2.*",
     "cache/namespaced-cache": "1.1.*",
     "react/socket": "1.9.*",
     "react/promise-stream": "1.3.*",
